@@ -1,4 +1,5 @@
 # React + Vite
+# please ensure that you add your own Emailjs account for its working.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
